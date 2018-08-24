@@ -36,7 +36,7 @@ File -> Import -> Maven -> Existing Maven project
 |Spring Boot Configuration | Class or Java property files  |
 |--------------------------|---|
 |The Main Class | [SpringRestfullWebServiceController](https://github.com/Sudarshan-Gowda/basic-restfull-using-spring/src/main/java/com/star/sud/web/SpringRestfullWebServiceController.java) |
-|Properties Files | [application.properties](https://github.com/Sudarshan-Gowda/basic-restfull-using-spring/src/main/resources) |
+|Configuration Files | [mvc-core-config.xml](https://github.com/Sudarshan-Gowda/basic-restfull-using-spring/src/main/resources/spring) |
 
 
 ## Steps to test the application:
