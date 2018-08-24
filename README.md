@@ -1,8 +1,5 @@
 # Spring Restful Sample Application 
 
-## Understanding the Spring Petclinic application with a few diagrams
-<a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
-
 ## Running Spring rest locally
 
 You can then access Restfull here: http://localhost:8090/
@@ -12,7 +9,7 @@ You can then access Restfull here: http://localhost:8090/
 Our issue tracker is available here: https://github.com/Sudarshan-Gowda/basic-restfull-using-spring/issues
 
 
-## Working with Petclinic in Eclipse/STS
+## Working with Rest in Eclipse
 
 ### prerequisites
 The following items should be installed in your system:
