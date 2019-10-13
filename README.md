@@ -45,7 +45,7 @@ a) For GET method no need to send any data(Json) as a postman request
 b) For POST method need to send the data in Json format. The sample json data is mentioned in the below file.|Sample JSON format data |sample-json| (https://github.com/Sudarshan-Gowda/Spring-Mvc-Restfull-WebServices/tree/master/sample-json.txt)
    
    
-##User reference or guide.
+## User reference or guide.
 1. Application Landing Page: [click here](https://github.com/Sudarshan-Gowda/Spring-Mvc-Restfull-WebServices/blob/master/docs/picture1.png)
 
 2. Json Format Data [click here](https://github.com/Sudarshan-Gowda/Spring-Mvc-Restfull-WebServices/blob/master/docs/picture2.png)
