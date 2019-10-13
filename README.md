@@ -44,6 +44,16 @@ File -> Import -> Maven -> Existing Maven project
 a) For GET method no need to send any data(Json) as a postman request
 b) For POST method need to send the data in Json format. The sample json data is mentioned in the below file.|Sample JSON format data |sample-json| (https://github.com/Sudarshan-Gowda/Spring-Mvc-Restfull-WebServices/tree/master/sample-json.txt)
    
+   
+##User reference or guide.
+1. Application Landing Page: `Picture` (https://github.com/Sudarshan-Gowda/Spring-Mvc-Restfull-WebServices/blob/master/docs/picture1.png)
+
+2. Json Format Data `Picture`(https://github.com/Sudarshan-Gowda/Spring-Mvc-Restfull-WebServices/blob/master/docs/picture2.png)
+
+3. Post Man Get Data `Picture`(https://github.com/Sudarshan-Gowda/Spring-Mvc-Restfull-WebServices/blob/master/docs/picture3.png)
+
+4. Post Man Post data `Picture`(https://github.com/Sudarshan-Gowda/Spring-Mvc-Restfull-WebServices/blob/master/docs/picture4.png)
+
 # Contributing
 
 The [issue tracker](https://github.com/Sudarshan-Gowda/Spring-Mvc-Restfull-WebServices/issues) is the preferred channel for bug reports, features requests and submitting pull requests.
