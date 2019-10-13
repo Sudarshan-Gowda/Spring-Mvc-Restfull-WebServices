@@ -46,7 +46,7 @@ b) For POST method need to send the data in Json format. The sample json data is
    
    
 ##User reference or guide.
-1. Application Landing Page: `Picture` (https://github.com/Sudarshan-Gowda/Spring-Mvc-Restfull-WebServices/blob/master/docs/picture1.png)
+1. Application Landing Page: `Picture`(https://github.com/Sudarshan-Gowda/Spring-Mvc-Restfull-WebServices/blob/master/docs/picture1.png)
 
 2. Json Format Data `Picture`(https://github.com/Sudarshan-Gowda/Spring-Mvc-Restfull-WebServices/blob/master/docs/picture2.png)
 
