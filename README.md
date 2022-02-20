@@ -52,10 +52,10 @@ b) For POST method need to send the data in Json format. The sample json data is
 2. Json Format Data
 <img src="https://github.com/Sudarshan-Gowda/Spring-Mvc-Restfull-WebServices/blob/master/docs/picture2.png"/>
 
-3. Post Man Get Data 
+3. Postman Get Data 
 <img src="https://github.com/Sudarshan-Gowda/Spring-Mvc-Restfull-WebServices/blob/master/docs/picture3.png"/>
 
-4. Post Man Post data 
+4. Postman Post data 
 <img src="https://github.com/Sudarshan-Gowda/Spring-Mvc-Restfull-WebServices/blob/master/docs/picture4.png"/>
 
 # Contributing
