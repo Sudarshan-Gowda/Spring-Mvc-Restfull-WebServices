@@ -10,7 +10,7 @@
 
 	<properties>
 		<!-- Spring -->
-		<spring-framework.version>4.0.4.RELEASE</spring-framework.version>
+		<spring-framework.version>5.3.19</spring-framework.version>
 		<servlet.version>2.5</servlet.version>
 
 		<!-- Thymeleaf -->
